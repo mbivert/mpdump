@@ -1,0 +1,3 @@
+Dump some informations about mpd.
+Requirement:
+   libmpd (=>0.17) http://git.musicpd.org/cgit/mirror/libmpd.git/
